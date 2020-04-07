@@ -1,0 +1,416 @@
+[
+    {
+        "cn_name": "巴斯",
+        "name": "Bath",
+        "region_id": 0,
+        "id": 1
+    },
+    {
+        "cn_name": "伯明翰",
+        "name": "Birmingham",
+        "region_id": 0,
+        "id": 2
+    },
+    {
+        "cn_name": "布拉德福德市",
+        "name": "Bradford",
+        "region_id": 0,
+        "id": 3
+    },
+    {
+        "cn_name": "布赖顿-霍夫",
+        "name": "Brighton & Hove",
+        "region_id": 0,
+        "id": 4
+    },
+    {
+        "cn_name": "布里斯托",
+        "name": "Bristol",
+        "region_id": 0,
+        "id": 5
+    },
+    {
+        "cn_name": "剑桥",
+        "name": "Cambridge",
+        "region_id": 0,
+        "id": 6
+    },
+    {
+        "cn_name": "坎特伯雷市",
+        "name": "Canterbury",
+        "region_id": 0,
+        "id": 7
+    },
+    {
+        "cn_name": "卡莱尔市",
+        "name": "Carlisle",
+        "region_id": 0,
+        "id": 8
+    },
+    {
+        "cn_name": "切尔姆斯福德市",
+        "name": "Chelmsford",
+        "region_id": 0,
+        "id": 9
+    },
+    {
+        "cn_name": "切斯特",
+        "name": "Chester",
+        "region_id": 0,
+        "id": 10
+    },
+    {
+        "cn_name": "奇切斯特",
+        "name": "Chichester",
+        "region_id": 0,
+        "id": 11
+    },
+    {
+        "cn_name": "考文垂",
+        "name": "Coventry",
+        "region_id": 0,
+        "id": 12
+    },
+    {
+        "cn_name": "德比",
+        "name": "Derby",
+        "region_id": 0,
+        "id": 13
+    },
+    {
+        "cn_name": "达勒姆",
+        "name": "Durham",
+        "region_id": 0,
+        "id": 14
+    },
+    {
+        "cn_name": "伊利",
+        "name": "Ely",
+        "region_id": 0,
+        "id": 15
+    },
+    {
+        "cn_name": "埃克塞特",
+        "name": "Exeter",
+        "region_id": 0,
+        "id": 16
+    },
+    {
+        "cn_name": "格洛斯特",
+        "name": "Gloucester",
+        "region_id": 0,
+        "id": 17
+    },
+    {
+        "cn_name": "赫里福德",
+        "name": "Hereford",
+        "region_id": 0,
+        "id": 18
+    },
+    {
+        "cn_name": "赫尔河畔京士顿",
+        "name": "Kingston upon Hull",
+        "region_id": 0,
+        "id": 19
+    },
+    {
+        "cn_name": "兰卡斯特",
+        "name": "Lancaster",
+        "region_id": 0,
+        "id": 20
+    },
+    {
+        "cn_name": "利兹市",
+        "name": "Leeds",
+        "region_id": 0,
+        "id": 21
+    },
+    {
+        "cn_name": "莱斯特",
+        "name": "Leicester",
+        "region_id": 0,
+        "id": 22
+    },
+    {
+        "cn_name": "利奇菲尔德",
+        "name": "Lichfield",
+        "region_id": 0,
+        "id": 23
+    },
+    {
+        "cn_name": "林肯",
+        "name": "Lincoln",
+        "region_id": 0,
+        "id": 24
+    },
+    {
+        "cn_name": "利物浦",
+        "name": "Liverpool",
+        "region_id": 0,
+        "id": 25
+    },
+    {
+        "cn_name": "伦敦市",
+        "name": "London",
+        "region_id": 0,
+        "id": 0
+    },
+    {
+        "cn_name": "曼彻斯特",
+        "name": "Manchester",
+        "region_id": 0,
+        "id": 26
+    },
+    {
+        "cn_name": "泰恩河畔纽卡素",
+        "name": "Newcastle upon Tyne",
+        "region_id": 0,
+        "id": 27
+    },
+    {
+        "cn_name": "诺里奇",
+        "name": "Norwich",
+        "region_id": 0,
+        "id": 28
+    },
+    {
+        "cn_name": "诺丁汉",
+        "name": "Nottingham",
+        "region_id": 0,
+        "id": 29
+    },
+    {
+        "cn_name": "牛津",
+        "name": "Oxford",
+        "region_id": 0,
+        "id": 30
+    },
+    {
+        "cn_name": "彼得伯勒",
+        "name": "Peterborough",
+        "region_id": 0,
+        "id": 31
+    },
+    {
+        "cn_name": "普利茅斯",
+        "name": "Plymouth",
+        "region_id": 0,
+        "id": 32
+    },
+    {
+        "cn_name": "朴茨茅斯",
+        "name": "Portsmouth",
+        "region_id": 0,
+        "id": 33
+    },
+    {
+        "cn_name": "普雷斯顿市",
+        "name": "Preston",
+        "region_id": 0,
+        "id": 34
+    },
+    {
+        "cn_name": "里彭",
+        "name": "Ripon",
+        "region_id": 0,
+        "id": 35
+    },
+    {
+        "cn_name": "索尔福德市",
+        "name": "Salford",
+        "region_id": 0,
+        "id": 36
+    },
+    {
+        "cn_name": "索尔兹伯里",
+        "name": "Salisbury",
+        "region_id": 0,
+        "id": 37
+    },
+    {
+        "cn_name": "谢菲尔德",
+        "name": "Sheffield",
+        "region_id": 0,
+        "id": 38
+    },
+    {
+        "cn_name": "南安普敦",
+        "name": "Southampton",
+        "region_id": 0,
+        "id": 39
+    },
+    {
+        "cn_name": "圣奥尔本斯",
+        "name": "St Albans",
+        "region_id": 0,
+        "id": 40
+    },
+    {
+        "cn_name": "特伦特河畔斯托克",
+        "name": "Stoke-on-Trent",
+        "region_id": 0,
+        "id": 41
+    },
+    {
+        "cn_name": "桑德兰市",
+        "name": "Sunderland",
+        "region_id": 0,
+        "id": 42
+    },
+    {
+        "cn_name": "特鲁罗",
+        "name": "Truro",
+        "region_id": 0,
+        "id": 43
+    },
+    {
+        "cn_name": "韦克菲尔德市",
+        "name": "Wakefield",
+        "region_id": 0,
+        "id": 44
+    },
+    {
+        "cn_name": "韦尔斯",
+        "name": "Wells",
+        "region_id": 0,
+        "id": 45
+    },
+    {
+        "cn_name": "西敏市",
+        "name": "Westminster",
+        "region_id": 0,
+        "id": 46
+    },
+    {
+        "cn_name": "温彻斯特",
+        "name": "Winchester",
+        "region_id": 0,
+        "id": 47
+    },
+    {
+        "cn_name": "伍尔弗汉普顿",
+        "name": "Wolverhampton",
+        "region_id": 0,
+        "id": 48
+    },
+    {
+        "cn_name": "伍斯特",
+        "name": "Worcester",
+        "region_id": 0,
+        "id": 49
+    },
+    {
+        "cn_name": "约克",
+        "name": "York",
+        "region_id": 0,
+        "id": 50
+    },
+    {
+        "cn_name": "阿马",
+        "name": "Armagh",
+        "region_id": 1,
+        "id": 51
+    },
+    {
+        "cn_name": "贝尔法斯特",
+        "name": "Belfast",
+        "region_id": 1,
+        "id": 52
+    },
+    {
+        "cn_name": "伦敦德里",
+        "name": "Londonderry",
+        "region_id": 1,
+        "id": 53
+    },
+    {
+        "cn_name": "利斯本",
+        "name": "Lisburn",
+        "region_id": 1,
+        "id": 54
+    },
+    {
+        "cn_name": "纽里",
+        "name": "Newry",
+        "region_id": 1,
+        "id": 55
+    },
+    {
+        "cn_name": "鸭巴甸",
+        "name": "Aberdeen",
+        "region_id": 2,
+        "id": 56
+    },
+    {
+        "cn_name": "邓迪",
+        "name": "Dundee",
+        "region_id": 2,
+        "id": 57
+    },
+    {
+        "cn_name": "爱丁堡",
+        "name": "Edinburgh",
+        "region_id": 2,
+        "id": 58
+    },
+    {
+        "cn_name": "格拉斯哥",
+        "name": "Glasgow",
+        "region_id": 2,
+        "id": 59
+    },
+    {
+        "cn_name": "因弗內斯",
+        "name": "Inverness",
+        "region_id": 2,
+        "id": 60
+    },
+    {
+        "cn_name": "珀斯",
+        "name": "Perth",
+        "region_id": 2,
+        "id": 61
+    },
+    {
+        "cn_name": "史特灵",
+        "name": "Stirling",
+        "region_id": 2,
+        "id": 62
+    },
+    {
+        "cn_name": "班戈",
+        "name": "Bangor",
+        "region_id": 3,
+        "id": 63
+    },
+    {
+        "cn_name": "卡迪夫",
+        "name": "Cardiff",
+        "region_id": 3,
+        "id": 64
+    },
+    {
+        "cn_name": "纽波特",
+        "name": "Newport",
+        "region_id": 3,
+        "id": 65
+    },
+    {
+        "cn_name": "圣亚萨",
+        "name": "St. Asaph",
+        "region_id": 3,
+        "id": 66
+    },
+    {
+        "cn_name": "圣戴维斯",
+        "name": "St. David's",
+        "region_id": 3,
+        "id": 67
+    },
+    {
+        "cn_name": "斯旺西",
+        "name": "Swansea",
+        "region_id": 3,
+        "id": 68
+    }
+]

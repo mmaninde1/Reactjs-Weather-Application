@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Montreal"
+  },
+  {
+    "name": "toronto"
+  },
+  {
+    "name": "brampton"
+  },
+  {
+    "name": "Ottawa"
+  },
+  {
+    "name": "Vancouver"
+  },
+  {
+    "name": "Calgary"
+  },
+  {
+    "name": "edmonton"
+  },
+  {
+    "name": "winnipeg"
+  },
+  {
+    "name": "hamilton"
+  },
+  {
+    "name": "victoria"
+  },
+  {
+    "name": "regina"
+  },
+  {
+    "name": "windsor"
+  },{
+    "name": "Barrie"
+  },
+  {
+    "name": "oshawa"
+  },
+  {
+    "name": "moncton"
+  },
+  {
+    "name": "kelowna"
+  },
+  {
+    "name": "surrey"
+  },
+  {
+    "name": "sherbrooke"
+  },
+  {
+    "name": "guelph"
+  },
+  {
+    "name": "markham"
+  }
+]
