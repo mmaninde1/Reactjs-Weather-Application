@@ -1,3 +1,24 @@
+Weather Application
+
+This is Web based Application to find Weather. It let you find weather using country selected from dropdown list and then select city in that country in dropdown. This application provides following details:<br/>
+<br/>
+Description<br/>
+Temperature<br/>
+Atmospheric Pressure<br/>
+Humidity<br/>
+Wind Speed<br/>
+Wind direction<br/>
+Clouds<br/>
+Sunrise<br/>
+Sunset<br/>
+It use https://openweathermap.org APIs to get weather details.<br/>
+<br/>
+Visit this link: https://openweathermap.org/appid<br/>
+Signup for account and get your API key.<br/>
+Keep this API key for future use in your application.<br/>
+Clone the above repository<br/>
+Paste your API key in formContainer.js file.<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
